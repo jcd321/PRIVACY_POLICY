@@ -5,7 +5,7 @@
 > (tras crear el archivo en la rama `main`). Ábrela en incógnito y comprueba que se ve el texto sin login.
 
 **Versión del documento:** 2026-04-24 (alineada con la app Inspechron)  
-**Última actualización del texto público:** 2026-05-08  
+**Última actualización del texto público:** 2026-05-11  
 
 **Responsable / Prestador del servicio:** Inspechron  
 **Contacto para privacidad y derechos ARCO:** inspechron@gmail.com
@@ -75,25 +75,59 @@ Puedes solicitar acceso, rectificación, supresión, oposición o limitación de
 
 ---
 
-## 9. Menores
+## 9. Eliminación de cuenta y datos
+
+**App:** Inspechron (Google Play), operada por el responsable indicado al inicio de esta página.
+
+Para **cerrar tu cuenta** y solicitar la **supresión de los datos personales y contenidos asociados** a esa cuenta (incluidos, según aplicación técnica y legal: proyectos, secciones, fotografías y metadatos de inspección vinculados a tu perfil, e información de cuenta), envía un correo desde la **dirección de email con la que registraste la cuenta** a:
+
+**inspechron@gmail.com**
+
+Indica en el asunto o cuerpo que se trata de una **solicitud de eliminación de cuenta y datos** (puedes usar literalmente esa frase). Responderemos en un plazo razonable. Podemos pedirte información mínima para verificar que la solicitud procede del titular de la cuenta.
+
+**Qué ocurre tras la baja:** aplicaremos **supresión o anonimización** de los datos identificables asociados a tu usuario conforme a nuestra política técnica y a la ley aplicable. Pueden conservarse por un tiempo limitado **copias de respaldo** o registros mientras se purgan de forma segura, o cuando exista **obligación legal** o necesidad legítima de conservar pruebas (por ejemplo, reclamaciones en curso), en la medida en que la normativa lo permita.
+
+**Datos ya incorporados a sistemas de IA o agregados:** como se indica en los términos dentro de la app y en la sección de conservación de esta política, los **modelos** o artefactos de IA ya entrenados o validados con datos **agregados o no identificables** pueden conservarse sin guardar indefinidamente **copias identificables** de tus archivos. Donde la ley exija medidas alternativas, las aplicaremos (por ejemplo, eliminación de copias identificables en nuestros almacenes).
+
+**Compras en Google Play:** el procesamiento del pago lo realiza **Google** según sus propias políticas. Si tras la baja procede ajustar **créditos o saldo** ligados a la cuenta, indícalo en tu solicitud; la gestión final puede depender de políticas de la tienda y del historial de compras acreditado.
+
+Esta sección cumple la función de **enlace de eliminación de cuenta** exigida por Google Play para que los usuarios sepan **cómo solicitar la baja** y **qué clase de datos** se suprimen o pueden retenerse.
+
+---
+
+## 10. Menores
 
 Inspechron no está dirigida a menores de edad. Si crees que hemos recopilado datos de un menor sin el consentimiento adecuado, contáctanos en el correo de privacidad.
 
 ---
 
-## 10. Cambios
+## 11. Cambios
 
 Podemos actualizar esta política. Los cambios relevantes se comunicarán por medios razonables (por ejemplo, aviso en la app o por correo).
 
 ---
 
-## 11. English (summary)
+## 12. English (summary)
 
 **Inspechron** processes account data, optional profile fields, inspection photos and related content you upload, and technical logs needed to run the service securely. We use cloud subprocessors. Purposes include providing the app, reports, backups, security, legal compliance, and improving our product and AI as described in the in-app legal terms.
 
 **Photos you upload** are used to operate the service (storage, display in-app, reports, assisted analysis, and the content license purposes in the in-app terms, including training and improving AI models where described). This is **not** a blank license for any arbitrary use. We will not sell your photos or use them in marketing or testimonials that **identify you personally** without **additional consent**, except where applicable law requires otherwise. You remain the owner of IP rights in content you create; you are responsible for third-party permissions where required.
 
 Contact the email above for privacy requests. This summary does not replace the full Terms & Privacy Notice inside the app.
+
+### Account and data deletion (Play Store / user requests)
+
+**App:** Inspechron on Google Play.
+
+To **close your account** and request **deletion of personal data and content** tied to it (including, as technically and legally applicable: projects, sections, inspection photos and metadata linked to your profile, and account information), email **from the address you used to register** to **inspechron@gmail.com**. State clearly that you request **account and data deletion**.
+
+We will verify ownership when needed and respond within a reasonable time. We apply **deletion or anonymization** of identifiable data subject to backup purge windows, **legal hold**, or **legitimate retention** where required by law.
+
+**AI / aggregated data:** as in the in-app terms and this policy, **trained models** or aggregated non-identifiable artifacts may be retained without indefinitely keeping **identifiable copies** of your files; where the law requires alternative measures, we apply them.
+
+**Google Play purchases** are processed by **Google** under their policies; mention credits or balance in your request if relevant.
+
+This subsection is the **account deletion URL** reference for store disclosures: it describes **how to request deletion** and **what is removed or may be retained**.
 
 ---
 
