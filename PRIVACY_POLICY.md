@@ -5,7 +5,7 @@
 > (tras crear el archivo en la rama `main`). Ábrela en incógnito y comprueba que se ve el texto sin login.
 
 **Versión del documento:** 2026-04-24 (alineada con la app Inspechron)  
-**Última actualización del texto público:** 2026-05-11  
+**Última actualización del texto público:** 2026-05-08  
 
 **Responsable / Prestador del servicio:** Inspechron  
 **Contacto para privacidad y derechos ARCO:** inspechron@gmail.com
@@ -36,6 +36,12 @@ El documento legal completo (términos y licencia de contenidos, incluido uso pa
 - Generar y mostrar análisis o informes que solicites.
 - Seguridad, prevención de fraude, copias de seguridad y cumplimiento legal.
 - Mejora del producto y de modelos de inteligencia artificial, conforme a los términos aceptados en la app (incluida la licencia sobre contenidos descrita allí).
+
+### 3.1. Fotografías e imágenes de inspección (qué implica)
+
+Las fotografías y demás imágenes que subas a la aplicación **están destinadas al servicio Inspechron**: almacenamiento en nuestra infraestructura, visualización dentro de la app, generación de informes, análisis asistido y las finalidades de licencia descritas en los **términos integrados dentro de la aplicación** (incluido el uso para entrenar y mejorar modelos de inteligencia artificial y derivados técnicos o estadísticos permitidos allí).
+
+Esto **no** autoriza un uso ilimitado de tus imágenes para “cualquier fin”. No las venderemos ni las emplearemos en publicidad, campañas o testimonios que **te identifiquen personalmente** sin tu **consentimiento adicional**, salvo cuando la ley aplicable lo exija de otra manera. Sigues siendo titular de los derechos de propiedad intelectual aplicables sobre el contenido que crees. Si fotografías bienes o personas de terceros y la ley o tus contratos exigen permiso, eres responsable de obtenerlo.
 
 ---
 
@@ -83,7 +89,11 @@ Podemos actualizar esta política. Los cambios relevantes se comunicarán por me
 
 ## 11. English (summary)
 
-**Inspechron** processes account data, optional profile fields, inspection photos and related content you upload, and technical logs needed to run the service securely. We use cloud subprocessors. Purposes include providing the app, reports, backups, security, legal compliance, and improving our product and AI as described in the in-app legal terms. Contact the email above for privacy requests. This summary does not replace the full Terms & Privacy Notice inside the app.
+**Inspechron** processes account data, optional profile fields, inspection photos and related content you upload, and technical logs needed to run the service securely. We use cloud subprocessors. Purposes include providing the app, reports, backups, security, legal compliance, and improving our product and AI as described in the in-app legal terms.
+
+**Photos you upload** are used to operate the service (storage, display in-app, reports, assisted analysis, and the content license purposes in the in-app terms, including training and improving AI models where described). This is **not** a blank license for any arbitrary use. We will not sell your photos or use them in marketing or testimonials that **identify you personally** without **additional consent**, except where applicable law requires otherwise. You remain the owner of IP rights in content you create; you are responsible for third-party permissions where required.
+
+Contact the email above for privacy requests. This summary does not replace the full Terms & Privacy Notice inside the app.
 
 ---
 
